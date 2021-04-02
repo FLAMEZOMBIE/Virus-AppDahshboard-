@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/homeicon"
+        android:title="About Me"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/settting"
+        android:icon="@drawable/settingicon"
+        android:title="Setting"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/personicon"
+        android:title="Profile"
+        app:showAsAction="never"/>
+
+</menu>
